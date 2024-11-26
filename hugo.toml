@@ -1,0 +1,11 @@
+baseURL = 'https://shivangeesabharwal.com/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "moments"
+paginate = 10
+paginatePath = '.'
+
+[params]
+    title = "Shivangee Sabharwal"
+    signature = ""
+    name = "Shivangee Sabharwal"

@@ -1,0 +1,3 @@
+[submodule "themes/moment"]
+    path = themes/moment
+    url = "https://github.com/piyushbag/shivangee-gallery.git"
